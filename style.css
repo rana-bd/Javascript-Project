@@ -1,0 +1,30 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.mid {
+  width: 60%;
+  margin: 50px auto;
+}
+h3 {
+  line-height: 35px;
+}
+input {
+  padding: 5px;
+  margin: 0px 15px;
+}
+p {
+  font-size: 20px;
+  letter-spacing: 0.5px;
+}
+input#submit {
+  margin: 20px;
+  border: nono;
+  border: none !important;
+  border-radius: 7px;
+  padding: 8px 20px;
+  font-size: 18px;
+  font-weight: 700;
+  background: #45fe10;
+  color: #000;
+}
