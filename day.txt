@@ -1,0 +1,7 @@
+##  What is git?
+
+>> git is a softwate or workingspace in pc/desktop 
+
+## How to create directory/folder in gitbash ??
+
+>> mkdir file name
