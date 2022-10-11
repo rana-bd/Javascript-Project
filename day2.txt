@@ -1,1 +1,5 @@
+## What is github??
+>> git hub is a online workspace where we can store data.
 
+## How to create a repository ?
+>> We can create repository in github account
